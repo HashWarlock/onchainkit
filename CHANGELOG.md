@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.6.2
+
+### Patch Changes
+
+- 926bc30: - Added `getFarcasterUserAddress` utility to extract user's custody and/or verified addresses.
+  - Updates the version of `@types/jest` package
+
 ## 0.6.1
 
 ### Patch Changes
